@@ -14,7 +14,6 @@ homepage = "https://github.com/cmake-wheel/cmeel-qhull"
 
 [tool.cmeel]
 build-number = 0
-configure-args = ["-DBUILD_STATIC_LIBS=OFF"]
 has-sitelib = false
 source = "qhull"
 
