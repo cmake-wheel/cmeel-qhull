@@ -13,7 +13,7 @@ version = "8.0.1"
 homepage = "https://github.com/cmake-wheel/cmeel-qhull"
 
 [tool.cmeel]
-build-number = 0
+build-number = 1
 has-sitelib = false
 source = "qhull"
 
