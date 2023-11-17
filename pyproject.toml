@@ -7,7 +7,7 @@ description = "cmeel distribution for qhull: Convex hull, Delaunay triangulation
 license-files = "qhull/COPYING.txt"
 name = "cmeel-qhull"
 requires-python = ">= 3.8"
-version = "8.0.2"
+version = "8.0.2.1"
 
 [project.urls]
 homepage = "https://github.com/cmake-wheel/cmeel-qhull"
@@ -15,6 +15,7 @@ homepage = "https://github.com/cmake-wheel/cmeel-qhull"
 [tool.cmeel]
 has-sitelib = false
 source = "qhull"
+upstream-version = "8.0.2"
 
 [tool.tomlsort]
 all = true
