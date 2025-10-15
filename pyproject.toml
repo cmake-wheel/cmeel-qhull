@@ -14,6 +14,7 @@ homepage = "https://github.com/cmake-wheel/cmeel-qhull"
 
 [tool.cmeel]
 build-number = 1
+configure-args = ["-DCMAKE_POLICY_VERSION_MINIMUM=3.5"]
 has-sitelib = false
 source = "qhull"
 upstream-version = "8.0.2"
